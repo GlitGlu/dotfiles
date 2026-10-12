@@ -61,5 +61,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = gh api user/emails | jq -r '.[].email'
+	email = 232274434+GlitGlu@users.noreply.github.com
 	name = Giacomo Hofmann
