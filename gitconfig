@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = piepst-fussball5w@icloud.com
+	name = Giacomo Hofmann
