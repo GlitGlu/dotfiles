@@ -61,5 +61,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = piepst-fussball5w@icloud.com
+	email = gh api user/emails | jq -r '.[].email'
 	name = Giacomo Hofmann
